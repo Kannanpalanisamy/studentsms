@@ -1,0 +1,28 @@
+.loginPage {
+    background: url("Images/school.jpg");
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/school.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginform {
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+}
+
+ul li :hover {
+    background-color: gray;
+
+}
+
+.student{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.timetable{
+    width: 40px;
+    height: 40px;
+   border-radius: 50% ;
+}
